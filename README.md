@@ -14,4 +14,4 @@ Based on a conversation with the customer, the LEX chatbot will identify the cus
 
 Following image describes the AWS microservice architecture used to implement the web application
 
-![screenshot](images/chatbot.JPG)
+![screenshot](images/aws_architecture.JPG)
